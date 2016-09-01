@@ -12,6 +12,7 @@ import android.view.MenuItem;
 public class MainActivity extends AppCompatActivity {
 
 //project owner: Add some text
+    //Tsuna test no.2
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
